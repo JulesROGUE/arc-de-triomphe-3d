@@ -96,7 +96,7 @@ chmod +x Arc*.AppImage
 ./Arc*.AppImage
 
 # ou paquet Debian / Ubuntu
-sudo apt install ./arc*.deb
+sudo apt install ./Arc*.deb
 ```
 
 ## Développement
